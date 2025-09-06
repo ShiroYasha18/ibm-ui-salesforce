@@ -1,0 +1,46 @@
+[2025-09-06 19:02:39] [INFO] Starting IBM UI Salesforce Simulation
+[2025-09-06 19:02:39] [INFO] ====================================
+[2025-09-06 19:02:39] [INFO] ✓ Flask is installed
+[2025-09-06 19:02:39] [INFO] Starting server...
+[2025-09-06 19:02:39] [INFO] Waiting for server to initialize...
+[2025-09-06 19:02:39] [INFO] SERVER: [2025-09-06 19:02:39] [INFO] Starting Flask server on port 5000
+[2025-09-06 19:02:39] [INFO] SERVER: * Serving Flask app 'server'
+[2025-09-06 19:02:39] [INFO] SERVER: * Debug mode: off
+[2025-09-06 19:02:39] [ERROR] SERVER ERROR: WARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.
+[2025-09-06 19:02:39] [ERROR] SERVER ERROR: * Running on http://127.0.0.1:5000
+[2025-09-06 19:02:39] [ERROR] SERVER ERROR: Press CTRL+C to quit
+[2025-09-06 19:02:41] [INFO] Opening simulation in browser...
+[2025-09-06 19:02:42] [INFO] 
+Simulation is now running!
+[2025-09-06 19:02:42] [INFO] Press Ctrl+C to stop the simulation
+[2025-09-06 19:02:42] [INFO] Current simulation status - HTML Changes: 0, Detected: 0
+[2025-09-06 19:02:52] [INFO] Current simulation status - HTML Changes: 1, Detected: 0
+[2025-09-06 19:03:02] [INFO] Current simulation status - HTML Changes: 2, Detected: 0
+[2025-09-06 19:03:12] [INFO] Current simulation status - HTML Changes: 3, Detected: 1
+[2025-09-06 19:03:22] [INFO] Current simulation status - HTML Changes: 4, Detected: 1
+[2025-09-06 19:03:32] [INFO] Current simulation status - HTML Changes: 5, Detected: 2
+[2025-09-06 19:03:42] [INFO] Current simulation status - HTML Changes: 6, Detected: 2
+[2025-09-06 19:03:52] [INFO] Current simulation status - HTML Changes: 7, Detected: 2
+[2025-09-06 19:04:02] [INFO] Current simulation status - HTML Changes: 8, Detected: 3
+[2025-09-06 19:04:12] [INFO] Current simulation status - HTML Changes: 9, Detected: 3
+[2025-09-06 19:04:22] [INFO] Current simulation status - HTML Changes: 10, Detected: 4
+[2025-09-06 19:04:32] [INFO] Current simulation status - HTML Changes: 11, Detected: 5
+[2025-09-06 19:04:42] [INFO] Current simulation status - HTML Changes: 12, Detected: 5
+[2025-09-06 19:04:52] [INFO] Current simulation status - HTML Changes: 13, Detected: 6
+[2025-09-06 19:05:02] [INFO] Current simulation status - HTML Changes: 14, Detected: 7
+[2025-09-06 19:05:12] [INFO] Current simulation status - HTML Changes: 15, Detected: 8
+[2025-09-06 19:05:22] [INFO] Current simulation status - HTML Changes: 16, Detected: 9
+[2025-09-06 19:05:32] [INFO] Current simulation status - HTML Changes: 17, Detected: 10
+[2025-09-06 19:05:42] [INFO] Current simulation status - HTML Changes: 18, Detected: 11
+[2025-09-06 19:05:52] [INFO] Current simulation status - HTML Changes: 19, Detected: 12
+[2025-09-06 19:06:02] [INFO] Current simulation status - HTML Changes: 20, Detected: 13
+[2025-09-06 19:06:12] [INFO] Current simulation status - HTML Changes: 21, Detected: 14
+[2025-09-06 19:06:22] [INFO] Current simulation status - HTML Changes: 22, Detected: 15
+[2025-09-06 19:06:32] [INFO] Current simulation status - HTML Changes: 23, Detected: 16
+[2025-09-06 19:06:42] [INFO] Current simulation status - HTML Changes: 24, Detected: 16
+[2025-09-06 19:06:52] [INFO] Current simulation status - HTML Changes: 25, Detected: 16
+[2025-09-06 19:07:02] [INFO] Current simulation status - HTML Changes: 26, Detected: 17
+[2025-09-06 19:07:12] [INFO] Current simulation status - HTML Changes: 27, Detected: 17
+[2025-09-06 19:07:22] [INFO] Current simulation status - HTML Changes: 28, Detected: 17
+[2025-09-06 19:07:32] [INFO] Current simulation status - HTML Changes: 29, Detected: 17
+[2025-09-06 19:07:42] [INFO] Simulation time limit (5 minutes) reached. Stopping simulation...

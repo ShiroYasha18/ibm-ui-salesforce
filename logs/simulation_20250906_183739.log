@@ -1,0 +1,148 @@
+[2025-09-06 18:37:39] [INFO] Starting IBM UI Salesforce Simulation
+[2025-09-06 18:37:39] [INFO] ====================================
+[2025-09-06 18:37:39] [INFO] ✓ Flask is installed
+[2025-09-06 18:37:39] [INFO] Starting server...
+[2025-09-06 18:37:39] [INFO] Waiting for server to initialize...
+[2025-09-06 18:37:40] [INFO] SERVER: [2025-09-06 18:37:40] [INFO] Starting Flask server on port 5000
+[2025-09-06 18:37:40] [INFO] SERVER: * Serving Flask app 'server'
+[2025-09-06 18:37:40] [INFO] SERVER: * Debug mode: off
+[2025-09-06 18:37:40] [ERROR] SERVER ERROR: WARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.
+[2025-09-06 18:37:40] [ERROR] SERVER ERROR: * Running on http://127.0.0.1:5000
+[2025-09-06 18:37:40] [ERROR] SERVER ERROR: Press CTRL+C to quit
+[2025-09-06 18:37:41] [INFO] Opening simulation in browser...
+[2025-09-06 18:37:42] [INFO] 
+Simulation is now running!
+[2025-09-06 18:37:42] [INFO] Press Ctrl+C to stop the simulation
+[2025-09-06 18:37:42] [INFO] Current simulation status - HTML Changes: 0, Detected: 0
+[2025-09-06 18:37:52] [INFO] Current simulation status - HTML Changes: 1, Detected: 1
+[2025-09-06 18:38:02] [INFO] Current simulation status - HTML Changes: 2, Detected: 2
+[2025-09-06 18:38:12] [INFO] Current simulation status - HTML Changes: 3, Detected: 3
+[2025-09-06 18:38:22] [INFO] Current simulation status - HTML Changes: 4, Detected: 4
+[2025-09-06 18:38:32] [INFO] Current simulation status - HTML Changes: 5, Detected: 5
+[2025-09-06 18:38:42] [INFO] Current simulation status - HTML Changes: 6, Detected: 6
+[2025-09-06 18:38:52] [INFO] Current simulation status - HTML Changes: 7, Detected: 7
+[2025-09-06 18:39:02] [INFO] Current simulation status - HTML Changes: 8, Detected: 8
+[2025-09-06 18:39:12] [INFO] Current simulation status - HTML Changes: 9, Detected: 8
+[2025-09-06 18:39:22] [INFO] Current simulation status - HTML Changes: 10, Detected: 9
+[2025-09-06 18:39:32] [INFO] Current simulation status - HTML Changes: 11, Detected: 9
+[2025-09-06 18:39:42] [INFO] Current simulation status - HTML Changes: 12, Detected: 10
+[2025-09-06 18:39:52] [INFO] Current simulation status - HTML Changes: 13, Detected: 10
+[2025-09-06 18:40:02] [INFO] Current simulation status - HTML Changes: 14, Detected: 11
+[2025-09-06 18:40:12] [INFO] Current simulation status - HTML Changes: 15, Detected: 12
+[2025-09-06 18:40:22] [INFO] Current simulation status - HTML Changes: 16, Detected: 12
+[2025-09-06 18:40:32] [INFO] Current simulation status - HTML Changes: 17, Detected: 13
+[2025-09-06 18:40:42] [INFO] Current simulation status - HTML Changes: 18, Detected: 14
+[2025-09-06 18:40:52] [INFO] Current simulation status - HTML Changes: 19, Detected: 15
+[2025-09-06 18:41:02] [INFO] Current simulation status - HTML Changes: 20, Detected: 16
+[2025-09-06 18:41:12] [INFO] Current simulation status - HTML Changes: 21, Detected: 17
+[2025-09-06 18:41:22] [INFO] Current simulation status - HTML Changes: 22, Detected: 18
+[2025-09-06 18:41:32] [INFO] Current simulation status - HTML Changes: 23, Detected: 19
+[2025-09-06 18:41:42] [INFO] Current simulation status - HTML Changes: 24, Detected: 19
+[2025-09-06 18:41:52] [INFO] Current simulation status - HTML Changes: 25, Detected: 20
+[2025-09-06 18:42:02] [INFO] Current simulation status - HTML Changes: 26, Detected: 21
+[2025-09-06 18:42:12] [INFO] Current simulation status - HTML Changes: 27, Detected: 21
+[2025-09-06 18:42:22] [INFO] Current simulation status - HTML Changes: 28, Detected: 22
+[2025-09-06 18:42:32] [INFO] Current simulation status - HTML Changes: 29, Detected: 22
+[2025-09-06 18:42:42] [INFO] Current simulation status - HTML Changes: 30, Detected: 23
+[2025-09-06 18:42:52] [INFO] Current simulation status - HTML Changes: 31, Detected: 24
+[2025-09-06 18:43:02] [INFO] Current simulation status - HTML Changes: 32, Detected: 25
+[2025-09-06 18:43:12] [INFO] Current simulation status - HTML Changes: 33, Detected: 25
+[2025-09-06 18:43:22] [INFO] Current simulation status - HTML Changes: 34, Detected: 26
+[2025-09-06 18:43:32] [INFO] Current simulation status - HTML Changes: 35, Detected: 27
+[2025-09-06 18:43:42] [INFO] Current simulation status - HTML Changes: 36, Detected: 27
+[2025-09-06 18:43:52] [INFO] Current simulation status - HTML Changes: 37, Detected: 27
+[2025-09-06 18:44:02] [INFO] Current simulation status - HTML Changes: 38, Detected: 28
+[2025-09-06 18:44:12] [INFO] Current simulation status - HTML Changes: 39, Detected: 29
+[2025-09-06 18:44:22] [INFO] Current simulation status - HTML Changes: 40, Detected: 30
+[2025-09-06 18:44:32] [INFO] Current simulation status - HTML Changes: 41, Detected: 30
+[2025-09-06 18:44:42] [INFO] Current simulation status - HTML Changes: 42, Detected: 30
+[2025-09-06 18:44:52] [INFO] Current simulation status - HTML Changes: 43, Detected: 31
+[2025-09-06 18:45:02] [INFO] Current simulation status - HTML Changes: 44, Detected: 32
+[2025-09-06 18:45:12] [INFO] Current simulation status - HTML Changes: 45, Detected: 33
+[2025-09-06 18:45:22] [INFO] Current simulation status - HTML Changes: 46, Detected: 34
+[2025-09-06 18:45:32] [INFO] Current simulation status - HTML Changes: 47, Detected: 35
+[2025-09-06 18:45:42] [INFO] Current simulation status - HTML Changes: 48, Detected: 36
+[2025-09-06 18:45:52] [INFO] Current simulation status - HTML Changes: 49, Detected: 37
+[2025-09-06 18:46:02] [INFO] Current simulation status - HTML Changes: 50, Detected: 37
+[2025-09-06 18:46:12] [INFO] Current simulation status - HTML Changes: 51, Detected: 38
+[2025-09-06 18:46:22] [INFO] Current simulation status - HTML Changes: 52, Detected: 38
+[2025-09-06 18:46:32] [INFO] Current simulation status - HTML Changes: 53, Detected: 39
+[2025-09-06 18:46:42] [INFO] Current simulation status - HTML Changes: 54, Detected: 39
+[2025-09-06 18:46:52] [INFO] Current simulation status - HTML Changes: 55, Detected: 40
+[2025-09-06 18:47:02] [INFO] Current simulation status - HTML Changes: 56, Detected: 41
+[2025-09-06 18:47:12] [INFO] Current simulation status - HTML Changes: 57, Detected: 41
+[2025-09-06 18:47:22] [INFO] Current simulation status - HTML Changes: 58, Detected: 41
+[2025-09-06 18:47:32] [INFO] Current simulation status - HTML Changes: 59, Detected: 42
+[2025-09-06 18:47:42] [INFO] Current simulation status - HTML Changes: 60, Detected: 43
+[2025-09-06 18:47:52] [INFO] Current simulation status - HTML Changes: 61, Detected: 43
+[2025-09-06 18:48:02] [INFO] Current simulation status - HTML Changes: 62, Detected: 44
+[2025-09-06 18:48:12] [INFO] Current simulation status - HTML Changes: 63, Detected: 44
+[2025-09-06 18:48:22] [INFO] Current simulation status - HTML Changes: 64, Detected: 45
+[2025-09-06 18:48:32] [INFO] Current simulation status - HTML Changes: 65, Detected: 45
+[2025-09-06 18:48:42] [INFO] Current simulation status - HTML Changes: 66, Detected: 46
+[2025-09-06 18:48:52] [INFO] Current simulation status - HTML Changes: 67, Detected: 47
+[2025-09-06 18:49:02] [INFO] Current simulation status - HTML Changes: 68, Detected: 48
+[2025-09-06 18:49:12] [INFO] Current simulation status - HTML Changes: 69, Detected: 49
+[2025-09-06 18:49:22] [INFO] Current simulation status - HTML Changes: 70, Detected: 50
+[2025-09-06 18:49:32] [INFO] Current simulation status - HTML Changes: 71, Detected: 51
+[2025-09-06 18:49:42] [INFO] Current simulation status - HTML Changes: 72, Detected: 52
+[2025-09-06 18:49:52] [INFO] Current simulation status - HTML Changes: 73, Detected: 53
+[2025-09-06 18:50:02] [INFO] Current simulation status - HTML Changes: 74, Detected: 54
+[2025-09-06 18:50:12] [INFO] Current simulation status - HTML Changes: 75, Detected: 55
+[2025-09-06 18:50:22] [INFO] Current simulation status - HTML Changes: 76, Detected: 56
+[2025-09-06 18:50:32] [INFO] Current simulation status - HTML Changes: 77, Detected: 57
+[2025-09-06 18:50:42] [INFO] Current simulation status - HTML Changes: 78, Detected: 58
+[2025-09-06 18:50:52] [INFO] Current simulation status - HTML Changes: 79, Detected: 59
+[2025-09-06 18:51:02] [INFO] Current simulation status - HTML Changes: 80, Detected: 60
+[2025-09-06 18:51:12] [INFO] Current simulation status - HTML Changes: 81, Detected: 61
+[2025-09-06 18:51:22] [INFO] Current simulation status - HTML Changes: 82, Detected: 62
+[2025-09-06 18:51:32] [INFO] Current simulation status - HTML Changes: 83, Detected: 63
+[2025-09-06 18:51:42] [INFO] Current simulation status - HTML Changes: 84, Detected: 63
+[2025-09-06 18:51:52] [INFO] Current simulation status - HTML Changes: 85, Detected: 64
+[2025-09-06 18:52:02] [INFO] Current simulation status - HTML Changes: 86, Detected: 65
+[2025-09-06 18:52:12] [INFO] Current simulation status - HTML Changes: 87, Detected: 66
+[2025-09-06 18:52:22] [INFO] Current simulation status - HTML Changes: 88, Detected: 66
+[2025-09-06 18:52:32] [INFO] Current simulation status - HTML Changes: 89, Detected: 66
+[2025-09-06 18:52:42] [INFO] Current simulation status - HTML Changes: 90, Detected: 67
+[2025-09-06 18:52:52] [INFO] Current simulation status - HTML Changes: 91, Detected: 67
+[2025-09-06 18:53:02] [INFO] Current simulation status - HTML Changes: 92, Detected: 68
+[2025-09-06 18:53:12] [INFO] Current simulation status - HTML Changes: 93, Detected: 69
+[2025-09-06 18:53:22] [INFO] Current simulation status - HTML Changes: 94, Detected: 69
+[2025-09-06 18:53:32] [INFO] Current simulation status - HTML Changes: 95, Detected: 70
+[2025-09-06 18:53:42] [INFO] Current simulation status - HTML Changes: 96, Detected: 71
+[2025-09-06 18:53:52] [INFO] Current simulation status - HTML Changes: 97, Detected: 71
+[2025-09-06 18:54:02] [INFO] Current simulation status - HTML Changes: 98, Detected: 72
+[2025-09-06 18:54:12] [INFO] Current simulation status - HTML Changes: 99, Detected: 72
+[2025-09-06 18:54:22] [INFO] Current simulation status - HTML Changes: 100, Detected: 73
+[2025-09-06 18:54:32] [INFO] Current simulation status - HTML Changes: 101, Detected: 74
+[2025-09-06 18:54:42] [INFO] Current simulation status - HTML Changes: 102, Detected: 75
+[2025-09-06 18:54:52] [INFO] Current simulation status - HTML Changes: 103, Detected: 76
+[2025-09-06 18:55:02] [INFO] Current simulation status - HTML Changes: 104, Detected: 76
+[2025-09-06 18:55:12] [INFO] Current simulation status - HTML Changes: 105, Detected: 77
+[2025-09-06 18:55:22] [INFO] Current simulation status - HTML Changes: 106, Detected: 78
+[2025-09-06 18:55:32] [INFO] Current simulation status - HTML Changes: 107, Detected: 79
+[2025-09-06 18:55:42] [INFO] Current simulation status - HTML Changes: 108, Detected: 80
+[2025-09-06 18:55:52] [INFO] Current simulation status - HTML Changes: 109, Detected: 81
+[2025-09-06 18:56:02] [INFO] Current simulation status - HTML Changes: 110, Detected: 82
+[2025-09-06 18:56:12] [INFO] Current simulation status - HTML Changes: 111, Detected: 83
+[2025-09-06 18:56:22] [INFO] Current simulation status - HTML Changes: 112, Detected: 84
+[2025-09-06 18:56:32] [INFO] Current simulation status - HTML Changes: 113, Detected: 85
+[2025-09-06 18:56:42] [INFO] Current simulation status - HTML Changes: 114, Detected: 86
+[2025-09-06 18:56:52] [INFO] Current simulation status - HTML Changes: 115, Detected: 87
+[2025-09-06 18:57:02] [INFO] Current simulation status - HTML Changes: 116, Detected: 88
+[2025-09-06 18:57:12] [INFO] Current simulation status - HTML Changes: 117, Detected: 89
+[2025-09-06 18:57:22] [INFO] Current simulation status - HTML Changes: 118, Detected: 90
+[2025-09-06 18:57:32] [INFO] Current simulation status - HTML Changes: 119, Detected: 91
+[2025-09-06 18:57:43] [INFO] Current simulation status - HTML Changes: 120, Detected: 92
+[2025-09-06 18:57:53] [INFO] Current simulation status - HTML Changes: 121, Detected: 92
+[2025-09-06 18:58:03] [INFO] Current simulation status - HTML Changes: 122, Detected: 93
+[2025-09-06 18:58:13] [INFO] Current simulation status - HTML Changes: 123, Detected: 93
+[2025-09-06 18:58:23] [INFO] Current simulation status - HTML Changes: 124, Detected: 93
+[2025-09-06 18:58:33] [INFO] Current simulation status - HTML Changes: 125, Detected: 94
+[2025-09-06 18:58:43] [INFO] Current simulation status - HTML Changes: 126, Detected: 95
+[2025-09-06 18:58:53] [INFO] Current simulation status - HTML Changes: 127, Detected: 95
+[2025-09-06 18:59:03] [INFO] Current simulation status - HTML Changes: 128, Detected: 96
+[2025-09-06 18:59:13] [INFO] Current simulation status - HTML Changes: 129, Detected: 97
+[2025-09-06 18:59:23] [INFO] Current simulation status - HTML Changes: 130, Detected: 98
+[2025-09-06 18:59:33] [INFO] Current simulation status - HTML Changes: 131, Detected: 99
+[2025-09-06 18:59:43] [INFO] Current simulation status - HTML Changes: 132, Detected: 100

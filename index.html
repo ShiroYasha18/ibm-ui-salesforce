@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>IBM UI Simulation</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 20px;
+            background-color: #f4f4f4;
+        }
+        .container {
+            max-width: 800px;
+            margin: 0 auto;
+            background: white;
+            padding: 20px;
+            border-radius: 5px;
+            box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+        }
+        h1 {
+            color: #1e88e5;
+            text-align: center;
+        }
+        .content {
+            margin-top: 20px;
+        }
+        .footer {
+            margin-top: 30px;
+            text-align: center;
+            font-size: 0.8em;
+            color: #666;
+        }
+        #simulation-status {
+            margin-top: 20px;
+            padding: 10px;
+            background-color: #e8f5e9;
+            border-radius: 5px;
+        }
+        button {
+            background-color: #1e88e5;
+            color: white;
+            border: none;
+            padding: 10px 15px;
+            border-radius: 4px;
+            cursor: pointer;
+        }
+        button:hover {
+            background-color: #1976d2;
+        }
+        input[type="number"] {
+            padding: 8px;
+            border: 1px solid #ddd;
+            border-radius: 4px;
+            width: 100px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>IBM UI Simulation</h1>
+        <div class="content">
+            <p>This is a simulation system that randomly switches between visually identical HTML scripts and monitors if these changes are detected.</p>
+            <div>
+                <label for="duration">Simulation Duration (minutes):</label>
+                <input type="number" id="duration" min="1" value="10">
+                <button id="start-btn">Start Simulation</button>
+                <button id="stop-btn" disabled>Stop Simulation</button>
+            </div>
+            <div id="simulation-status">
+                <p>Status: Idle</p>
+                <p>HTML Changes: 0</p>
+                <p>Detected Changes: 0</p>
+            </div>
+        </div>
+        <div class="footer">
+            <p>IBM UI Salesforce Simulation - Version 1.0</p>
+        </div>
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>
