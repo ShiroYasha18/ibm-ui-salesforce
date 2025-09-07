@@ -1,0 +1,84 @@
+[2025-09-07 08:26:38,121] [INFO] Starting Scrapy spider for https://www.horoscope.com/us/horoscopes/general/horoscope-general-daily-tomorrow.aspx?sign=5
+[2025-09-07 08:26:38,121] [INFO] Starting scrape 1/1
+[2025-09-07 08:26:38,124] [INFO] Scrapy 2.12.0 started (bot: scrapybot)
+[2025-09-07 08:26:38,146] [INFO] Versions: lxml 4.9.4.0, libxml2 2.10.3, cssselect 1.3.0, parsel 1.10.0, w3lib 2.3.1, Twisted 24.11.0, Python 3.11.9 (v3.11.9:de54cf5be3, Apr  2 2024, 07:12:50) [Clang 13.0.0 (clang-1300.0.29.30)], pyOpenSSL 25.0.0 (OpenSSL 3.4.1 11 Feb 2025), cryptography 44.0.2, Platform macOS-15.5-arm64-arm-64bit
+[2025-09-07 08:26:38,148] [INFO] Spider initialized for https://www.horoscope.com/us/horoscopes/general/horoscope-general-daily-tomorrow.aspx?sign=5
+[2025-09-07 08:26:38,148] [INFO] Enabled addons:
+[]
+[2025-09-07 08:26:38,154] [DEBUG] Using reactor: twisted.internet.selectreactor.SelectReactor
+[2025-09-07 08:26:38,173] [INFO] Telnet Password: adc53b6f06606daa
+[2025-09-07 08:26:38,272] [INFO] Enabled extensions:
+['scrapy.extensions.corestats.CoreStats',
+ 'scrapy.extensions.telnet.TelnetConsole',
+ 'scrapy.extensions.memusage.MemoryUsage',
+ 'scrapy.extensions.logstats.LogStats']
+[2025-09-07 08:26:38,273] [INFO] Overridden settings:
+{'CONCURRENT_REQUESTS': 1,
+ 'DOWNLOAD_DELAY': 1,
+ 'LOG_LEVEL': 'INFO',
+ 'ROBOTSTXT_OBEY': True,
+ 'USER_AGENT': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 '
+               '(KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36'}
+[2025-09-07 08:26:38,402] [INFO] Enabled downloader middlewares:
+['scrapy.downloadermiddlewares.offsite.OffsiteMiddleware',
+ 'scrapy.downloadermiddlewares.robotstxt.RobotsTxtMiddleware',
+ 'scrapy.downloadermiddlewares.httpauth.HttpAuthMiddleware',
+ 'scrapy.downloadermiddlewares.downloadtimeout.DownloadTimeoutMiddleware',
+ 'scrapy.downloadermiddlewares.defaultheaders.DefaultHeadersMiddleware',
+ 'scrapy.downloadermiddlewares.useragent.UserAgentMiddleware',
+ 'scrapy.downloadermiddlewares.retry.RetryMiddleware',
+ 'scrapy.downloadermiddlewares.redirect.MetaRefreshMiddleware',
+ 'scrapy.downloadermiddlewares.httpcompression.HttpCompressionMiddleware',
+ 'scrapy.downloadermiddlewares.redirect.RedirectMiddleware',
+ 'scrapy.downloadermiddlewares.cookies.CookiesMiddleware',
+ 'scrapy.downloadermiddlewares.httpproxy.HttpProxyMiddleware',
+ 'scrapy.downloadermiddlewares.stats.DownloaderStats']
+[2025-09-07 08:26:38,404] [INFO] Enabled spider middlewares:
+['scrapy.spidermiddlewares.httperror.HttpErrorMiddleware',
+ 'scrapy.spidermiddlewares.referer.RefererMiddleware',
+ 'scrapy.spidermiddlewares.urllength.UrlLengthMiddleware',
+ 'scrapy.spidermiddlewares.depth.DepthMiddleware']
+[2025-09-07 08:26:38,404] [INFO] Enabled item pipelines:
+[]
+[2025-09-07 08:26:38,404] [INFO] Spider opened
+[2025-09-07 08:26:38,435] [INFO] Crawled 0 pages (at 0 pages/min), scraped 0 items (at 0 items/min)
+[2025-09-07 08:26:38,435] [INFO] Telnet console listening on 127.0.0.1:6023
+[2025-09-07 08:26:38,893] [DEBUG] Crawled (200) <GET https://www.horoscope.com/robots.txt> (referer: None)
+[2025-09-07 08:26:40,059] [DEBUG] Crawled (200) <GET https://www.horoscope.com/us/horoscopes/general/horoscope-general-daily-tomorrow.aspx?sign=5> (referer: None)
+[2025-09-07 08:26:40,165] [INFO] Scraped https://www.horoscope.com/us/horoscopes/general/horoscope-general-daily-tomorrow.aspx?sign=5 (status: 200)
+[2025-09-07 08:26:40,166] [INFO] HTML saved to leo_horoscope_20250907_082640.html
+[2025-09-07 08:26:40,176] [INFO] Found 188 links on the page
+[2025-09-07 08:26:40,177] [INFO] Found 3 images on the page
+[2025-09-07 08:26:40,182] [INFO] Extracted 225 text elements
+[2025-09-07 08:26:40,182] [DEBUG] Scraped from <200 https://www.horoscope.com/us/horoscopes/general/horoscope-general-daily-tomorrow.aspx?sign=5>
+{'url': 'https://www.horoscope.com/us/horoscopes/general/horoscope-general-daily-tomorrow.aspx?sign=5', 'title': "Tomorrow's Leo Horoscope | Horoscope.com", 'links_count': 188, 'images_count': 3, 'text_elements_count': 225}
+[2025-09-07 08:26:40,183] [INFO] Closing spider (finished)
+[2025-09-07 08:26:40,184] [INFO] Dumping Scrapy stats:
+{'downloader/request_bytes': 684,
+ 'downloader/request_count': 2,
+ 'downloader/request_method_count/GET': 2,
+ 'downloader/response_bytes': 49145,
+ 'downloader/response_count': 2,
+ 'downloader/response_status_count/200': 2,
+ 'elapsed_time_seconds': 1.749071,
+ 'finish_reason': 'finished',
+ 'finish_time': datetime.datetime(2025, 9, 7, 2, 56, 40, 183521, tzinfo=datetime.timezone.utc),
+ 'httpcompression/response_bytes': 170765,
+ 'httpcompression/response_count': 2,
+ 'item_scraped_count': 1,
+ 'items_per_minute': None,
+ 'log_count/INFO': 15,
+ 'memusage/max': 69943296,
+ 'memusage/startup': 69943296,
+ 'response_received_count': 2,
+ 'responses_per_minute': None,
+ 'robotstxt/request_count': 1,
+ 'robotstxt/response_count': 1,
+ 'robotstxt/response_status_count/200': 1,
+ 'scheduler/dequeued': 1,
+ 'scheduler/dequeued/memory': 1,
+ 'scheduler/enqueued': 1,
+ 'scheduler/enqueued/memory': 1,
+ 'start_time': datetime.datetime(2025, 9, 7, 2, 56, 38, 434450, tzinfo=datetime.timezone.utc)}
+[2025-09-07 08:26:40,184] [INFO] Spider closed (finished)
+[2025-09-07 08:26:40,249] [INFO] Completed 1 scrapes of https://www.horoscope.com/us/horoscopes/general/horoscope-general-daily-tomorrow.aspx?sign=5
